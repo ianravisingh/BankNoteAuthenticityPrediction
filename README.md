@@ -1,5 +1,6 @@
 # BankNoteAuthenticityPrediction
 To predict if a bank note is authentic/genuine or not. 
+Deployed on Heroku (PAS)
 
 # Software and tools requirements
 
